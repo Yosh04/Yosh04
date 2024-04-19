@@ -1,4 +1,4 @@
-# Yosh Escorcia's Readme
+# Yosh Escorcia's Readme 🙌
 
 ## Introduction
 Hi there! I'm Yosh Escorcia, a passionate developer from Costa Rica. I specialize in creating exciting and visually appealing projects using React, Node.js, MongoDB, and Firebase. I also have knowledge of Flutter and enjoy exploring design patterns.
@@ -11,6 +11,8 @@ Hi there! I'm Yosh Escorcia, a passionate developer from Costa Rica. I specializ
 
 ## What I Love
 I thrive on working with cutting-edge technologies and crafting engaging projects. Whether it's diving into the depths of code or exploring innovative design patterns, I'm always up for the challenge.
+![SoExcited~GIF](https://github.com/Yosh04/Yosh04/assets/71646452/8266e189-e75f-4015-8682-c63a3ff22e9f)
+
 
 ## Let's Connect
 Feel free to reach out to me if you'd like to collaborate on exciting projects or just chat about technology, design, or anything else under the sun.
