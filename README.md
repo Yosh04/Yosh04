@@ -1,13 +1,14 @@
 <br>
-<h2 align="center">
+<h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/Yosh04/Yosh04/"># Yosh Escorcia 🙌</a></b>
         </samp>
-</h2>
+</h1>
 <br>
 
 ## Introduction
 Hi there! I'm Yosh Escorcia, a passionate developer from Costa Rica. I specialize in creating exciting and visually appealing projects using React, Node.js, MongoDB, and Firebase. I also have knowledge of Flutter and enjoy exploring design patterns.
+<code>React, Node.js, MongoDB, and Firebase. I also have knowledge of Flutter and enjoy exploring design patterns.</code>
 
 ## About Me
 - **Name:** Yosh Escorcia
