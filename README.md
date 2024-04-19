@@ -1,8 +1,6 @@
-# Yosh Escorcia's Readme 🙌
-<!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://github.com/Yosh04/Yosh04/"># Yosh Escorcia 🙌</a></b>
         </samp>
 </h3>
 <br>
@@ -14,7 +12,7 @@ Hi there! I'm Yosh Escorcia, a passionate developer from Costa Rica. I specializ
 - **Name:** Yosh Escorcia
 - **Location:** Costa Rica
 - **Proficiencies:** React, Node.js, MongoDB, Firebase, Flutter
-- **Interests:** Guitar playing, reading science fiction and economics books, playing basketball and 8-ball pool.
+- **Interests:** 🎸 Guitar playing, 📖 reading science fiction and economics books, 🏀 playing basketball and 🎱 - ball pool.
 
 ## What I Love
 I thrive on working with cutting-edge technologies and crafting engaging projects. Whether it's diving into the depths of code or exploring innovative design patterns, I'm always up for the challenge.
