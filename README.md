@@ -1,8 +1,9 @@
-<h3 align="center">
+<br>
+<h2 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/Yosh04/Yosh04/"># Yosh Escorcia 🙌</a></b>
         </samp>
-</h3>
+</h2>
 <br>
 
 ## Introduction
